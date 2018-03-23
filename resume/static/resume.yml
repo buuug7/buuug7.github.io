@@ -20,7 +20,7 @@ personalInfo:
       url: http://www.linkedin.com/in/puguohong/
     -
       name: weibo
-      url: https://weibo.com/buuug7
+      url: https://weibo.com
     -
       name: facebook
       url: https://facebook.com/buuug7
@@ -88,7 +88,7 @@ workExperiences:
         text: 负责公司项目的前端架构以及实现
       -
         id: 1
-        text: 负责前端框架搭建、应用开发
+        text: 维护公司前端项目
   -
     id: 1
     time: 2015.7-2017.9
@@ -97,31 +97,37 @@ workExperiences:
     workContents:
       -
         id: 0
-        text: 负责公司产品web前后端的设计、规划及开发
+        text: 负责公司产品web前后端的设计、开发以及部署
       -
         id: 1
-        text: 负责前端框架搭建、应用开发
+        text: 根据项目具体要求，承担开发任务，按需完成工作计划任务
       -
         id: 2
-        text: 根据项目具体要求，承担开发任务，按计划完成任务目标
+        text: 维护公司web项目
 
 # Project experiences 项目经验
 projectExperiences:
   -
     id: 0
-    name: 定西人大官网
-    url: #0
-    position: 前后端
-    description: 定西人大官方官网，包含了PC版本以及移动版本等。
+    name: 鸡汤文
+    url: http://soups.tq0.com/
+    position: Full Stack
+    description: 一个用来分享和收藏心灵鸡汤的网站
   -
     id: 1
+    name: 定西人大官网
+    url: http://dxrdw.gov.cn/
+    position: 前后端
+    description: 定西人大官方官网
+  -
+    id: 2
     name: 定西社会组织
-    url: #1
+    url: http://dxsh.gov.cn/
     position: web前后端
     description: 定西市民间组织管理局官方网站
   -
-    id: 2
+    id: 3
     name: 渭源县电子商务公共服务中心
-    url: #2
+    url: http://ds8.com.cn/
     position: web前后端
     description: 渭源县商务局，渭源县电子商务公共服务中心。
