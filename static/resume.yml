@@ -4,7 +4,7 @@ personalInfo:
   name: 蒲国红
   sex: 男
   education: 本科
-  workExperience: 5年经验
+  workExperience: 3-5年经验
   status: 离职
   location: 甘肃兰州
   born: 1986
@@ -19,18 +19,12 @@ personalInfo:
       name: linkedin
       url: http://www.linkedin.com/in/puguohong/
     -
-      name: weibo
-      url: https://weibo.com
-    -
-      name: facebook
-      url: https://facebook.com/buuug7
-    -
       name: stack-overflow
       url: https://stackoverflow.com/users/6080636/puguohong
 
 # Self description 自我描述
 selfDescription:
-  description: 本人热心、自信、上进心强，服从纪律，有责任心。热爱编程，热爱互联网，对新事物新技术充满好奇。最近几年从事web前后端的开发，熟悉常用的web开发框架。
+  description: 本人热心、上进心强，服从纪律，有责任心。热爱编程，热爱互联网，对新事物新技术充满好奇。最近几年从事web前后端的开发，熟悉常用的web开发框架。
 
 # Skills 技能
 skills:
@@ -63,7 +57,7 @@ skills:
 jobIntension:
   position: web前后端
   location: 西安
-  salary: 6k-12k
+  salary: 8k-12k
   jobTime: 全职
 
 #educationExperiences 教育经历
