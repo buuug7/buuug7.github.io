@@ -73,7 +73,7 @@ educationExperiences:
 workExperiences:
   -
     id: 0
-    time: 2013.6-2015.9
+    time: 2013.5-2015.7
     companyName: 瑞通科技
     workPosition: Frontend Developer
     workContents:
